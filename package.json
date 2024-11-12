@@ -1,3 +1,10 @@
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint",
+  "postinstall": "npm install --legacy-peer-deps"
+},
 {
   "name": "f3-engine",
   "version": "0.1.0",
